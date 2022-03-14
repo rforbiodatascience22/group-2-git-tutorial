@@ -2,6 +2,14 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
+.stupid_file.txt
+
+=======
 stupid_file.txt
 RMarkdown_test.html
+<<<<<<< HEAD
+>>>>>>> b2cb210c3165cdf95662e6cb4c92fca363239241
+=======
 abc/XYZ.csv
+>>>>>>> aa97b8db4874eec0aa246606ebc902c50489d7de
