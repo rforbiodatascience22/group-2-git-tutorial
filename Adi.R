@@ -8,4 +8,9 @@
 
 # test @s172084 (modification of a file.) 2.2.1
 
+<<<<<<< HEAD
+# Or install git on your computer and have a local version too? 
+
+=======
 #yuan modifies
+>>>>>>> ad48142da505b4eddffa60cf7f7b4dd1b0840558
