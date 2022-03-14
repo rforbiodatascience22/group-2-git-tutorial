@@ -1,18 +1,13 @@
 # group-2-git-tutorial
-R Biodatascience
 
-<<<<<<< HEAD
-my first commit from @s172084
+R Bio Data Science
 
-# creating a vector. 
-vec <- c(1:5)
-mean(vec)
-=======
-This Readme exists to inform the world, on our superior R skills. 
 
-This group consists of Razia, Prince, Adi, Yuan and Ori. 
+This Readme exists to inform the world, on our okay R skills. 
 
-Together, we shall conquer the world. 
+This group consists of Adi,Ori, Prince Razia, and Yuan (in alphabetical order)
+
+As part of a team, we shall submit assignments in the R for Bio Data Science Class.  
 
 >>>>>>> aa97b8db4874eec0aa246606ebc902c50489d7de
 
