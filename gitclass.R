@@ -1,1 +1,1 @@
-todays class is cool..no stress for coding
+todays class is cool..no stress for coding.2nd attempt
