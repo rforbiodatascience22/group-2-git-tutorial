@@ -1,0 +1,58 @@
+---
+title: "Scripting in a reproducible and collaborative framework using Github and RStudio"
+date: "17/03/2022"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Group 2
+
+Team: Adikrishna (s212940), Oriade (s172084), Prince (s220520) , Razia (s151549) ,Yuan (s212420) 
+
+***
+
+
+**Learning Objectives**
+
+A student who has met the objectives of the session will be able to:
+
++ Explain why reproducible data analysis is important
++ Identify associated relevant challenges
++ Explain the ability to replicate versus reproducibility
++ Describe the components of a reproducible data analysis
++ Use RStudio and GitHub (git) for collaborative bio data science projects
+
+***
+
+
+**Task 2.6:**
+
+Your GROUP ASSIGNMENT is any written document (might be even a simple “.txt” file) containing the link to your repository and name of the file used in this exercise. 
+
+We can inspect it by using blame feature, which shows who committed and what was committed.
+
+
+
+***
+```{r echo=FALSE, fig.align='left', out.width='75%'}
+knitr::include_graphics('githubbing.png')
+```
+
+
+The link to the repository is: <https://github.com/rforbiodatascience22/group-2-git-tutorial/>
+
+The name of the files used in this exercise are : lab-7-group2-assignment and README.md
+
+
+***
+
+
+
+
+
+
